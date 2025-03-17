@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+file|stem|7d51cfc9df35b6d5|78ba1f949d516b2f|2c530c1562a7fbd1|1735323524|data.csv|t20164.5597430731s|s3044b|3044|file|local|vector|||0.23|le package dplyr a été compilé avec la version R 4.2.3. le package ggplot2 a été compilé avec la version R 4.2.3. le package readr a été compilé avec la version R 4.2.3|
+data|stem|bd01f89ed9e79b5c|14c0abc3329ce191|95b1261874febec3|33550471||t20164.5750384094s|s1364b|1364|rds|local|vector|||0.1||
+model|stem|a2e9dc93ede70e32|122b7dd8ec340fb3|25a71b4579a306a4|808688450||t20164.5750386075s|s110b|110|rds|local|vector|||0||
+fit_model|function|3f3c9d2e5cf2eb2b
+get_data|function|5173fe1c70ec019f
+plot_model|function|c5d6a8a17330a2fd
+plot|stem|0a09cd02733cfb04|f1fe7f0b4927139e|2b00eed59981a395|874984291||t20164.5941127323s|s93740b|93740|rds|local|vector|||0.02||
